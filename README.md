@@ -12,4 +12,4 @@
 [Two Minute Paper Presentation](https://docs.google.com/presentation/d/1GKzt05ZqclQaeB3IFvn6aIXR4k-XOytMbs5tAHlYIW8/edit?usp=sharing)
 
 
-[#  **Final Paper**](https://colab.research.google.com/drive/1pG9jHYSCkRgruNO_VN46GRIeTEk4YUmG?usp=sharing)
+# [**Final Paper**](https://colab.research.google.com/drive/1pG9jHYSCkRgruNO_VN46GRIeTEk4YUmG?usp=sharing)
