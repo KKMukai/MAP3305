@@ -11,5 +11,7 @@
 # **Presentations**
 [Two Minute Paper Presentation](https://docs.google.com/presentation/d/1GKzt05ZqclQaeB3IFvn6aIXR4k-XOytMbs5tAHlYIW8/edit?usp=sharing)
 
+[Alexnet Example Bike Lane vs Main Road](https://colab.research.google.com/drive/1JiU-LpgHlUMV1YXdHtNmszK9nNKpwLWQ?usp=sharing)
+
 
 # [**Final Paper**](https://colab.research.google.com/drive/1pG9jHYSCkRgruNO_VN46GRIeTEk4YUmG?usp=sharing)
