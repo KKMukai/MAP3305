@@ -15,3 +15,7 @@
 
 
 # [**Final Paper**](https://colab.research.google.com/drive/1pG9jHYSCkRgruNO_VN46GRIeTEk4YUmG?usp=sharing)
+
+[Presentation](https://docs.google.com/presentation/d/1ldcTdTNlhvEGiIh1fXvHotpaKIEUAzrmbZ5_sy7KLUg/edit?usp=sharing)
+
+[Paper](https://docs.google.com/document/d/1z13AGUb_eUJhTNeFfzSe1OCHDilLB6gBdDY44ObiadU/edit?usp=sharing)
