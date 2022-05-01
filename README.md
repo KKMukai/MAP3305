@@ -15,7 +15,7 @@
 
 
 # **Final Paper**
-[Paper](https://colab.research.google.com/drive/1pG9jHYSCkRgruNO_VN46GRIeTEk4YUmG?usp=sharing)
+[Code](https://colab.research.google.com/drive/1pG9jHYSCkRgruNO_VN46GRIeTEk4YUmG?usp=sharing)
 
 [Presentation](https://docs.google.com/presentation/d/1ldcTdTNlhvEGiIh1fXvHotpaKIEUAzrmbZ5_sy7KLUg/edit?usp=sharing)
 
