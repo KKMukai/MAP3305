@@ -19,4 +19,4 @@
 
 [Presentation](https://docs.google.com/presentation/d/1ldcTdTNlhvEGiIh1fXvHotpaKIEUAzrmbZ5_sy7KLUg/edit?usp=sharing)
 
-[Paper](https://www.overleaf.com/project/626741e4a37a397e7b2bbdcd)
+[Paper](https://drive.google.com/file/d/1F7PmSsWxO67YskjlQp1H18s84yQNgNRs/view?usp=sharing)
