@@ -14,7 +14,7 @@
 [Alexnet Example Driveway vs Main Road](https://colab.research.google.com/drive/1JiU-LpgHlUMV1YXdHtNmszK9nNKpwLWQ?usp=sharing)
 
 
-# [**Final Paper**]
+# **Final Paper**
 [Paper](https://colab.research.google.com/drive/1pG9jHYSCkRgruNO_VN46GRIeTEk4YUmG?usp=sharing)
 
 [Presentation](https://docs.google.com/presentation/d/1ldcTdTNlhvEGiIh1fXvHotpaKIEUAzrmbZ5_sy7KLUg/edit?usp=sharing)
